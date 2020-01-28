@@ -1,5 +1,5 @@
 ---
-title: Built For Speed
+title: Built For Speed - Updated title
 subtitle: Awake is Built to Be Blazing Fast
 category:
   - About Awake
